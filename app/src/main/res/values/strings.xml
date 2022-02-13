@@ -1,3 +1,24 @@
 <resources>
     <string name="app_name">CalculatorMVVM</string>
+    <string name="text_c">C</string>
+    <string name="tex_percent">%</string>
+    <string name="text_clear">⌫</string>
+    <string name="text_divide">÷</string>
+    <string name="text_seven">7</string>
+    <string name="text_eight">8</string>
+    <string name="text_nine">9</string>
+    <string name="text_multiply">x</string>
+    <string name="text_four">4</string>
+    <string name="text_fice">5</string>
+    <string name="text_six">6</string>
+    <string name="text_minus">-</string>
+    <string name="text_one">1</string>
+    <string name="text_two">2</string>
+    <string name="text_three">3</string>
+    <string name="text_plus">+</string>
+    <string name="text_double_zero">00</string>
+    <string name="text_zero">0</string>
+    <string name="text_dot">.</string>
+    <string name="text_equal">=</string>
+    <string name="calc">Calc</string>
 </resources>
