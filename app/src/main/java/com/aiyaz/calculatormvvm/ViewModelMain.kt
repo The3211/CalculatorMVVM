@@ -27,7 +27,7 @@ class ViewModelMain : ViewModel() {
         }
     }
 
-    fun clearCalcStr(){
+    private fun clearCalcStr(){
         totalValueMutable.value = ""
     }
 
